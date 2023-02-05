@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 01, 2023
+### Day 1: February 01, 2023
 
 
 **Today's Progress**: Codechef Starters
 
 
-### Day 1: February 02, 2023
+### Day 2: February 02, 2023
 
 
 **Today's Progress**: LinkedList Questions
@@ -20,8 +20,19 @@
 
 #### Problem link : https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1
 
+### Day 3: February 03, 2023
 
 **Today's Progress**: LinkedList Questions
 
 #### Program 1 : Sort linkedlist with 0's 1's and 2's 
+
+
+### Day 4: February 04, 2023
+
+**Today's Progress**: LinkedList Questions
+
+#### Program 1 : Solved questions on linkedlist
+
+
+
 
