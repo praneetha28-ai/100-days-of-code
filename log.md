@@ -33,6 +33,23 @@
 
 #### Program 1 : Solved questions on linkedlist
 
+### Day 5: February 05, 2023
+
+**Today's Progress**:
+
+#### Program 1 : Solved questions on coding ninjas
+
+### Day 6: February 06, 2023
+
+**Today's Progress**: LinkedList Questions
+
+#### Program 1 : Solved questions on linkedlist
+
+### Day 7: February 07, 2023
+
+**Today's Progress**: 
+
+#### Program 1 :
 
 
 
